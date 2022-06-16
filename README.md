@@ -1,5 +1,4 @@
 ## Olá! Eu sou Mateus Faria 
-E sou fissurado em front end.
 
   Atualmente estudando
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
@@ -8,8 +7,8 @@ E sou fissurado em front end.
 <div  align="center">
   <br>
   <a href="https://github.com/sirfaria">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirfaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirfaria&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirfaria&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirfaria&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -20,4 +19,6 @@ E sou fissurado em front end.
   <img align="center" alt="Faria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Faria-NEXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Faria-Scss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Faria-Scss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+          
 </div>
