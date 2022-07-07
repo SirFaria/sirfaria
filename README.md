@@ -1,4 +1,4 @@
-## Olá! Eu sou Mateus Faria 
+## Olá! Eu sou Mateus Faria 👋
 
   Atualmente estudando
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
